@@ -45,7 +45,11 @@ This is an App with Login _(hardcoded email and password)_ and List Image from [
 
 <br>
 
-![Maestro Test](https://github.com/james-mann/image_viewer_app/blob/main/maestro_test.mp4)
+! [Maestro Test](https://github.com/james-mann/image_viewer_app/assets/140841245/87955a90-f6f2-4b4f-8ea8-7d746d25473b)
+
+
+
+
 
 ## Architecture Proposal by [Resocoder](https://github.com/ResoCoder/flutter-tdd-clean-architecture-course)
 
