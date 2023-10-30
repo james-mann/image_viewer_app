@@ -1,0 +1,17 @@
+{
+  "cancel": "Cancel",
+  "pleaseWait": "Please Wait...",
+  "login": "Login",
+  "email": "Email",
+  "password": "Password",
+  "errorInvalidEmail": "Email is not valid",
+  "errorEmptyField": "Can't be empty",
+  "errorPasswordLength": "Password must be at least 6 characters",
+  "errorPasswordNotMatch": "Password doesn't match",
+  "errorNoData": "No data",
+  "searchImage": "Search Image",
+  "dataNotFound": "{data} not found",
+  "imageResolution": "Image Resolution: {size}",
+  "imageSize": "Image Size: {size}",
+  "tags": "Tags: "
+}

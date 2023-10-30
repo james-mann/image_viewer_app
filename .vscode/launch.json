@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "name": "stg",
+            "type": "dart",
+            "request": "launch",
+            "args": [
+                "--dart-define-from-file",
+                ".env.stg.json",
+            ],
+            "program": "lib/main.dart"
+        },
+    ]
+}

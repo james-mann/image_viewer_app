@@ -1,0 +1,7 @@
+appId: com.example.imageViewer
+---
+- waitForAnimationToEnd:
+      timeout: 5000
+- tapOn:
+    point: 50%,22%
+- tapOn: Back

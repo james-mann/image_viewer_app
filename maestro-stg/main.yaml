@@ -1,0 +1,4 @@
+appId: com.example.imageViewer
+---
+- runFlow: "login.yaml"
+- runFlow: "image_viewer.yaml"

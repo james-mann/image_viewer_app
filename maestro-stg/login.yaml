@@ -1,0 +1,8 @@
+appId: com.example.imageViewer
+---
+- launchApp
+- tapOn: "test@test.com"
+- inputText: "test@test.com"
+- tapOn: "••••••••••••"
+- inputText: "password123"
+- tapOn: "LOGIN"
